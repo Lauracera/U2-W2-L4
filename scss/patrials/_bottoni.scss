@@ -1,6 +1,16 @@
+// $btn-color: #0e6cff, #ff8700, #4caf50;
 
-// @each $el in $colorValues {
-//   .box-#{$el} {
+// @each $el in $btn-color {
+//   .btn-#{$el} {
 //     background-color: $el;
 //   }
 // }
+
+$colorValues: red, green, blue;
+
+@each $el in $colorValues {
+    .btn-#{$el} {
+      background-color: $el;
+    }
+  }
+  
