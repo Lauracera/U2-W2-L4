@@ -8,6 +8,6 @@
 
 
 h1 {
-    @include titleBig($text-color, 68px , $font-family);
+    @include titleBig($text-color, $font-sizes-lg , $font-family);
 }
 
