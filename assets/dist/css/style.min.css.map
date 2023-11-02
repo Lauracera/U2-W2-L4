@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"style.min.css"}
+{"version":3,"sources":["../../../scss/style.scss","../../../scss/patrials/_mininxs.scss","../../../scss/patrials/_colori.scss","../../../scss/patrials/_font.scss"],"names":[],"mappings":"AASA,GCRA,cAAA,CACA,aCFa,CDIT,8BEJU,CFKV,eAAA,CACA,cDI+B","file":"style.min.css"}

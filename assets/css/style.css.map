@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"style.css"}
+{"version":3,"sources":["../../scss/style.scss","../../scss/patrials/_mininxs.scss","../../scss/patrials/_colori.scss","../../scss/patrials/_font.scss","style.css"],"names":[],"mappings":"AASA;ECRA,eAAA;EACA,cCFa;EDIT,gCEJU;EFKV,gBAAA;EACA,eDI+B;AIJnC","file":"style.css"}
